@@ -1,8 +1,8 @@
 # Simple-Billing-System
 University Project
 
-*Username = slcom
-*Password = slcom+1234
+Username and Password
+*slcom        slcom+1234
 
 Functionalities:
   * Login Authentication
