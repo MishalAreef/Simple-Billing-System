@@ -2,7 +2,8 @@
 University Project
 
 Username and Password
-*slcom        slcom+1234
+
+(slcom) (slcom+1234) 
 
 Functionalities:
   * Login Authentication
