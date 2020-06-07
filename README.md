@@ -1,4 +1,4 @@
-# OVO Cinema Booking System
+# Simple-Billing-System
 
 ![xxxx](https://user-images.githubusercontent.com/53239920/83961264-f6bea600-a8c3-11ea-98dd-e64f5a7eee3f.jpg)
 
